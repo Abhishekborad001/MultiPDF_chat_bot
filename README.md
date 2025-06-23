@@ -17,7 +17,7 @@ This project provides an intuitive web application built with Streamlit that all
 
 ## Introduction
 
-In an age where information is abundant and often siloed in documents, finding specific details can be time-consuming. "Chat with Multiple PDFs" addresses this challenge by transforming your collection of PDFs into a searchable knowledge base. Simply upload your documents, and then ask questions in natural language. The application will process the PDFs, understand your query, and provide relevant answers by referencing the document content.
+In an age where information is abundant and often siloed in documents, finding specific details can be time-consuming. "MultiPDF_chat_bot" addresses this challenge by transforming your collection of PDFs into a searchable knowledge base. Simply upload your documents, and then ask questions in natural language. The application will process the PDFs, understand your query, and provide relevant answers by referencing the document content.
 
 ## Features
 
@@ -63,10 +63,9 @@ Follow these steps to set up the project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/chat-with-multiple-pdfs.git
+    git clone https://github.com/Abhishekborad001/MultiPDF_chat_bot.git
     cd chat-with-multiple-pdfs
     ```
-    *(Replace `your-username/chat-with-multiple-pdfs.git` with the actual repository URL)*
 
 2.  **Create a virtual environment** (recommended):
     ```bash
@@ -141,7 +140,7 @@ Once you have completed the installation and environment setup:
 
 ## Author
 
-*   **[Your Name/GitHub Handle]** - [Link to your GitHub Profile (e.g., `https://github.com/your-username`)]
+*   **[Abhishek Borad]** - [Link to your GitHub Profile (e.g., `https://github.com/Abhishekborad001`)]
 
 ## License
 
