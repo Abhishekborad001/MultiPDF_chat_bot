@@ -140,7 +140,7 @@ Once you have completed the installation and environment setup:
 
 ## Author
 
-*   **[Abhishek Borad]** - [Link to your GitHub Profile (e.g., `https://github.com/Abhishekborad001`)]
+*   **[Abhishek Borad]**
 
 ## License
 
